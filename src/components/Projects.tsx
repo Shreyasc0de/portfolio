@@ -8,7 +8,7 @@ const projects = [
     title: 'Study Time Tracker',
     description:
       'A secure study log web app using Python, Streamlit, and SQLite. Features login system, progress tracker, daily charts, and editable study logs.',
-    image: '/public/images/study.png',
+    image: '/images/study.png',
     tags: ['Python', 'Streamlit', 'SQLite', 'UI Design'],
     icon: <Layout className="w-6 h-6" />,
     demo: 'https://shreyasc0de-study-time-tracker.streamlit.app',
@@ -18,7 +18,7 @@ const projects = [
   
       title: 'E-Commerce Clothing Store',
       description: 'A responsive shopping site with dynamic product display, cart management, and Material UI design. Built with React and TypeScript.',
-      image: '/public/images/web.png',
+      image: '/images/web.png',
       tags: ['React', 'TypeScript', 'Material UI', 'Context API'],
       icon: <Layout className="w-6 h-6" />,
       demo: 'http://localhost:3000/',
@@ -27,7 +27,7 @@ const projects = [
   {
     title: 'Culture Swap: Recipes & Stories',
     description: 'A community app where users share traditional recipes and cultural stories. Built with Streamlit and styled for a friendly experience.',
-    image: '/public/images/culture.png',
+    image: '/images/culture.png',
     tags: ['Python', 'Streamlit', 'Pandas', 'UI/UX'],
     icon: <Layout className="w-6 h-6" />,
     demo: 'http://localhost:8501', 
