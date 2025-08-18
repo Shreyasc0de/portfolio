@@ -11,7 +11,7 @@ const projects = [
     image: '/images/study.png',
     tags: ['Python', 'Streamlit', 'SQLite', 'UI Design'],
     icon: <Layout className="w-6 h-6" />,
-    demo: 'https://shreyasc0de-study-time-tracker.streamlit.app',
+    demo: 'https://shreyascode-study-time-tracker.streamlit.app',
     github: 'https://github.com/Shreyasc0de/study-time-tracker'
   },
   {
@@ -21,7 +21,7 @@ const projects = [
       image: '/images/web.png',
       tags: ['React', 'TypeScript', 'Material UI', 'Context API'],
       icon: <Layout className="w-6 h-6" />,
-      demo: 'http://localhost:3000/',
+      //demo: 'http://localhost:3000/',
       github: 'https://github.com/Shreyasc0de/shreyas-company'
     },
   {
@@ -30,7 +30,7 @@ const projects = [
     image: '/images/culture.png',
     tags: ['Python', 'Streamlit', 'Pandas', 'UI/UX'],
     icon: <Layout className="w-6 h-6" />,
-    demo: 'http://localhost:8501', 
+    //demo: 'http://localhost:8501', 
     github: 'https://github.com/Shreyasc0de/culture'
   }
   
